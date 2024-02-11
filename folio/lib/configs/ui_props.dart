@@ -20,6 +20,11 @@ abstract class UIProps {
   static BoxDecoration? borderButton;
 
   // Shadows
+  //
+  //
+  //
+
+  //
   static List<BoxShadow>? cardShadow;
 
   // BoxDecoration
